@@ -3,9 +3,7 @@ package com.example.fanat.retrom2;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
-/**
- * Created by Belal on 14/04/17.
- */
+
 
 public class data {
     @SerializedName("name")
